@@ -8,9 +8,10 @@ REACTJS, HTML,CSS, JAVASCRIPT
 themoviedb
 
 # Screenshots
+![image](https://user-images.githubusercontent.com/66993478/153001442-8d0df45a-0fc9-41d8-87ec-dd7f7c8a595e.png)
 
-![image](https://user-images.githubusercontent.com/66993478/153001261-40b19329-f1a9-4327-8070-bf79e951c55d.png)
-![image](https://user-images.githubusercontent.com/66993478/153001298-a8cb4e16-6bd1-4b2a-95b9-a3c562171a3d.png)
-![image](https://user-images.githubusercontent.com/66993478/153001353-732dc0e6-9146-4d11-aaf1-8c6e4bcc2288.png)
+![image](https://user-images.githubusercontent.com/66993478/153001472-e1bdcc69-d0e7-47b8-ad40-df3022975a3f.png)
+
+![image](https://user-images.githubusercontent.com/66993478/153001523-87085fd5-b5f8-4642-93e7-a7165b08e9aa.png)
 
 
